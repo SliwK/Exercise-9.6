@@ -1,3 +1,7 @@
-li {
-  color: red;
-}
+body {
+  margin: 0 auto; }
+  body .container {
+    padding: 20px;
+    width: 900px; }
+
+/*# sourceMappingURL=style.css.map */
